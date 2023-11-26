@@ -30,7 +30,7 @@ Gain the AI skills you need to drive innovation in your data science career. In 
   - Understand the principles of reinforcement learning.
   - Implement reinforcement learning algorithms for practical applications.
 - **Prerequisites:**
-  - Understanding Artificial Intelligence, Deep Learning Essentials
+  - Deep Learning Essentials
 
 ### Course 5: **AI Ethics**
 - **Learning Objectives:**
@@ -46,7 +46,14 @@ Gain the AI skills you need to drive innovation in your data science career. In 
 - **Prerequisites:**
   - Natural Language Processing (NLP) Fundamentals
 
-### Course 7: **Advanced AI Applications**
+### Course 7: **Data Augmentation for AI Applications**
+- **Learning Objectives:**
+  - Experiment with Data Augmentation techniques to improve AI models.
+  - Choose the optimal technique for different use cases.
+- **Prerequisites:**
+  - Deep Learning Essentials, Natural Language Processing Fundamentals, Reinforcement Learning in Practice
+
+### Course 8: **Advanced AI Applications**
 - **Learning Objectives:**
   - Explore advanced AI techniques, including computer vision and generative models.
   - Apply AI solutions to complex real-world problems.
