@@ -17,7 +17,7 @@
 
 ## Chapter 2: Image Data Augmentation
 ### Lesson 2.1: Transformations for Image Data
-- **Learning Objective:**
+- **Learning Objectives:**
   - Identify specific augmentation techniques tailored for image data.
   - Demonstrate how transformations contribute to model robustness.
 
@@ -33,7 +33,7 @@
 
 ## Chapter 3: Text Data Augmentation
 ### Lesson 3.1: Techniques for Augmenting Text Data
-- **Learning Objective:**
+- **Learning Objectives:**
   - Examine methods for augmenting text data, including synonym replacement.
   - Understand how to preserve semantic meaning during augmentation.
 
@@ -56,7 +56,7 @@
 ### Lesson 4.2: Generative AI for Structured Data Augmentation
 - **Learning Objectives:**
   - Identify uses of generative AI for structured data augmentation.
-  - Discover generative models' application in synthesizing diverse structured datasets.
+  - Discover generative models' applications in synthesizing diverse structured datasets.
 
 ### Lesson 4.3: Customizing Augmentation for Specific Domains
 - **Learning Objectives:**
