@@ -4,6 +4,8 @@
 
 Gain the AI skills you need to drive innovation in your data science career. In this track, you'll start with fundamentals and then delve into advanced concepts of Artificial Intelligence (AI), equipping yourself with the knowledge and tools necessary for successful AI implementation. Working with real-world scenarios and datasets, including natural language processing (NLP) and reinforcement learning (RL) applications, you'll discover how to develop complex AI systems, leverage them to make strategic decisions, and address ethical considerations in AI development. Throughout the track, you'll apply your learnings through hands-on projects using popular frameworks and tools such as TensorFlow, PyTorch, and scikit-learn. By the end of the track, you'll be well-prepared to navigate the dynamic landscape of AI and contribute to cutting-edge projects in your professional domain.
 
+Overall Prerequisite: Familiarity with Python programming as the Track contains some Python hands-on exercises.
+
 ## Track Structure
 
 ### Course 1: **Understanding Artificial Intelligence**

@@ -61,4 +61,4 @@
 ### Lesson 4.3: Customizing Augmentation for Specific Domains
 - **Learning Objectives:**
   - Compare different data augmentation techniques for industry-specific challenges.
-  - Apply best practices for domain-specific augmentation on a hands-on case study.
+  - Apply best practices for domain-specific augmentation on a hands-on exercise.
